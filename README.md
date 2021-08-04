@@ -1,2 +1,3 @@
 # MasterChessFish
 该项目使用Selenium框架和GoogleDrive在谷歌浏览器对国际象棋界面进行截图，调用tensorflow_chessbot项目的卷积神经网络模型识别出棋盘并将棋盘转为FEN局面代码，然后将FEN局面代码自动送给StockFish14引擎分析给出下一步建议。
+随心所欲的个人屑作，代码规范和设计模式无
